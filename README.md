@@ -1,1 +1,1 @@
-Rippleo>github.io
+Rippleo.github.io
